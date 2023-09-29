@@ -1,2 +1,2 @@
-# sesion_git_public
+q!# sesion_git_public
 curso de GIT
